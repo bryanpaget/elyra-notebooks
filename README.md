@@ -4,4 +4,4 @@ Sample Jupyter Notebooks showcasing Elyra.
 
 ## Kubeflow Pipelines
 
-![](../images/configure-kubeflow-pipelines.png)
+![](./images/configure-kubeflow-pipelines.png)
