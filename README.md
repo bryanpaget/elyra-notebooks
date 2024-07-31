@@ -5,7 +5,11 @@ Repository contains sample Jupyter notebooks showcasing how Elyra works and how 
 
 # What is Elyra
 
-Elyra provides a graphical way of orchestrating work done as a sequence of steps, each step is executed by a Kubeflow Pipeline Component. Each of these components typically only implements one unit-of-work, such as loading data, transforming data, training a model, or deploying a model to serve. For more information, see [pipeline components](https://elyra.readthedocs.io/en/v3.15.0/user_guide/pipeline-components.html).
+Elyra provides a graphical way of orchestrating work done as a sequence of steps, each step is executed by a Kubeflow Pipeline Component. Each of these components typically only implements one unit-of-work, such as loading data, transforming data, training a model, or deploying a model to serve.
+
+![](./images/pipeline-editor.jpg)
+
+For more information, see [pipeline components](https://elyra.readthedocs.io/en/v3.15.0/user_guide/pipeline-components.html).
 
 Elyra offers a graphical interface to configure the connection to Kubeflow Pipelines.
 
@@ -65,16 +69,26 @@ Regular updates and maintenance of the Elyra and The Zone environments will be n
 
 Providing comprehensive training sessions for both technical and non-technical team members to familiarize them with Elyra’s features and how to integrate them effectively with The Zone.
 
-Strategic Alignment
-Supporting Innovation
+## Strategic Alignment
+
+### Supporting Innovation
+
 By adopting Elyra within The Zone, the organization positions itself at the forefront of innovation, leveraging low-code/no-code tools to drive business value and inclusivity.
-Enhancing Capabilities
+
+### Enhancing Capabilities
+
 This integration aligns with the strategic goal of enhancing our capabilities, enabling a wider range of team members to contribute to sophisticated analyses and decision-making processes.
-User Adoption
+
+### User Adoption
+
 Mitigating the risk of low user adoption by providing extensive training and support to both technical and non-technical users, ensuring they are comfortable and proficient with the new tools.
-Maintenance Overhead
+
+### Maintenance Overhead
+
 Addressing the maintenance overhead by establishing a dedicated team responsible for managing the Elyra-The Zone environment and ensuring seamless operation.
-Conclusion
+
+# Conclusion
+
 Integrating Elyra within The Zone presents a compelling opportunity to democratize development and deployment of workflows. By adopting Elyra in The Zone, we can empower a broader range of users, and drive significant value.
  
  
