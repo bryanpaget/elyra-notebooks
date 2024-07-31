@@ -5,6 +5,16 @@ Repository contains sample Jupyter notebooks showcasing how Elyra works and how 
 
 # What is Elyra
 
+Elyra is a set of AI-centric extensions for JupyterLab, developed by the IBM Center for Open Source Data and AI Technologies (CODAIT). Elyra provides a suite of tools designed to simplify and streamline the development of data science and AI projects. Key features include:
+
+1. Pipeline Editor: A visual tool for creating and managing machine learning pipelines.
+2 .Notebook Pipelines: Allows users to chain Jupyter Notebooks together to create complex workflows.
+3. Code Snippets: Enables users to save and reuse snippets of code across different notebooks.
+4. Metadata Management: Manages metadata for various AI and machine learning tasks.
+5. Integrated Git Support: Facilitates version control and collaboration within JupyterLab.
+
+Elyra aims to enhance productivity and collaboration in data science and AI projects by integrating these features directly into the JupyterLab environment.
+
 Elyra provides a graphical way of orchestrating work done as a sequence of steps, each step is executed by a Kubeflow Pipeline Component. Each of these components typically only implements one unit-of-work, such as loading data, transforming data, training a model, or deploying a model to serve.
 
 ![](./images/pipeline-editor.jpg)
